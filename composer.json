@@ -1,0 +1,8 @@
+{
+    "name": "demo/legacy-portal",
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "7.4.0",
+        "laravel/framework": "8.0.0"
+    }
+}
